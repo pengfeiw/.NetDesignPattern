@@ -124,7 +124,6 @@ namespace DoFactory.GangOfFour.Builder.RealWorld
         }
     }
 
-
     /// <summary>
     /// The 'ConcreteBuilder2' class
     /// </summary>
